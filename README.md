@@ -3,6 +3,6 @@ Blokzinciri  ve merkezi olmayan uygulama geliştirme üzerine kaynaklar
 
 - Kaynak kitaplar
 - Blokzinciri Temel Bilgiler
-- Web3 ve Solidity
+- Solidity ve Web3
 - Güvenlik ve Test
 - Merkezsiz Kimlik
