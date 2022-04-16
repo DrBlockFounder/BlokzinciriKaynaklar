@@ -1,2 +1,2 @@
 # BlokzinciriKaynaklar
-Blokzinciri geliştirme üzerine kaynaklar
+Blokzinciri  ve merkezi olmayan uygulama geliştirme üzerine kaynaklar
