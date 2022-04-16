@@ -6,3 +6,5 @@ Blokzinciri  ve merkezi olmayan uygulama geliştirme üzerine kaynaklar
 - Solidity ve Web3
 - Güvenlik ve Test
 - Merkezsiz Kimlik
+
+decentralized.jfif
