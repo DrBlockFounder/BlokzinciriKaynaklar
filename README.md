@@ -7,4 +7,4 @@ Blokzinciri  ve merkezi olmayan uygulama geliştirme üzerine kaynaklar
 - Güvenlik ve Test
 - Merkezsiz Kimlik
 
-decentralized.jfg
+decentralized.jpg
