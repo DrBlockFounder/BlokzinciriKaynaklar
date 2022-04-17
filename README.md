@@ -1,4 +1,4 @@
-# BlokzinciriKaynaklar
+# Blokzinciri Kaynaklar
 Blokzinciri  ve merkezi olmayan uygulama geliştirme üzerine kaynaklar
 - [Blokzinciri Temel Bilgiler](00.%20BlokzinciriTemel.md)
 - [Kaynak kitaplar](01.%20KaynakKitaplar.md)
