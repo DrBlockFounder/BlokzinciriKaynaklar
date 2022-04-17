@@ -7,6 +7,6 @@ Blokzinciri  ve merkezi olmayan uygulama geliştirme üzerine kaynaklar
 - [Merkezsiz Kimlik](04.%20MerkeziOlmayanKimlik.md)
 - [Kurslar](05.Kurslar.md)
 - [Youtube Kanalları](06.Youtube%20Kanalları.md)
-- Örnek Projeler (yakında)
+- [Örnek Projeler](07.Örnek%20Projeler.md) 
 
 
