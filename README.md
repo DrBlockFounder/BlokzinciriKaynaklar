@@ -6,5 +6,7 @@ Blokzinciri  ve merkezi olmayan uygulama geliştirme üzerine kaynaklar
 - [Güvenlik ve Test](03.%20Güvenlik%20ve%20Test.md)
 - [Merkezsiz Kimlik](04.%20MerkeziOlmayanKimlik.md)
 - [Kurslar](05.Kurslar.md)
+- [Youtube Kanalları](06.Youtube Kanalları.md)
+
 
 
