@@ -8,7 +8,7 @@ Blokzinciri  ve merkezi olmayan uygulama geliştirme üzerine kaynaklar
 - [Kurslar](05.Kurslar.md)
 - [Youtube Kanalları](06.Youtube%20Kanalları.md)
 - [Örnek Projeler](07.Örnek%20Projeler.md) 
-- [Takip Önerileri](08.Takip Önerileri.md) 
+- [Takip Önerileri](08.Takip%20Önerileri.md) 
 
 
 
