@@ -1,6 +1,8 @@
 # Blokzinciri Kaynaklar
 Blokzinciri  ve merkezi olmayan uygulama geliştirme üzerine kaynaklar
+
 - [Blokzinciri Temel Bilgiler](00.%20BlokzinciriTemel.md)
+- [Blokzinciri geliştiricisi olmak isteyenler için Yol Haritası (2022)](https://www.youtube.com/watch?v=uGPC9wNTBbw)
 - [Kaynak kitaplar](01.%20KaynakKitaplar.md)
 - [Solidity ve Web3](02.%20Solidity%20Web3%20geliştirme.md)
 - [Güvenlik ve Test](03.%20Güvenlik%20ve%20Test.md)
